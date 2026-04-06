@@ -7,3 +7,4 @@ contract SimpleMessageStorage {
     string public message;
 }
 Add initial smart contracts
+Fix contract deployment issue
