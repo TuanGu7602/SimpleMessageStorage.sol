@@ -9,3 +9,4 @@ contract SimpleMessageStorage {
 Add initial smart contracts
 Fix contract deployment issue
 Clean up codebase
+Improve function naming
