@@ -10,3 +10,4 @@ Add initial smart contracts
 Fix contract deployment issue
 Clean up codebase
 Improve function naming
+Prepare for deployment 
