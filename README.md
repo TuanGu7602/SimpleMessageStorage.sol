@@ -13,3 +13,4 @@ Improve function naming
 Prepare for deployment 
 Add core contract logic
 Improve naming scheme
+Add helper function
